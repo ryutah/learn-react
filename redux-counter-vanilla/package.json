@@ -1,0 +1,13 @@
+{
+  "name": "redux-counter-vanilla",
+  "scripts": {
+    "serve": "parcel serve index.html"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.4.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.0.5"
+  }
+}
